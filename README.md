@@ -26,18 +26,27 @@ Streamlit
 
 ---
 
-## 📂 Project Structure
+## ## 📂 Project Structure
 
+```
 ai-finance-analyzer
 │
 ├── data
+│
 ├── models
+│
 ├── notebooks
+│
 ├── dashboard
 │   └── app.py
+│
 ├── src
+│
 ├── requirements.txt
+│
 └── README.md
+```
+
 
 ---
 
